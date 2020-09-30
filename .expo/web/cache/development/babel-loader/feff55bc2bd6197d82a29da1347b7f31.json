@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default as useUsers } from \"./users/queries/useUsers\";","map":{"version":3,"sources":["/home/facundo/vitau-app-demo/src/particles/requests/index.ts"],"names":["default","useUsers"],"mappings":"AAAA,SAASA,OAAO,IAAIC,QAApB","sourcesContent":["export { default as useUsers } from \"./users/queries/useUsers\";\n"]},"metadata":{},"sourceType":"module"}
